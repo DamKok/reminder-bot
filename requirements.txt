@@ -1,0 +1,3 @@
+aiogram[fast]
+aiosqlite
+apscheduler
